@@ -1,0 +1,31 @@
+.title {
+  text-align: center;
+  color: darkgreen;
+}
+
+.container {
+  width: 450px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid gray;
+}
+
+.button {
+  display: block;
+  width: 410px;
+  padding: 10px;
+  border: none;
+  background-color: royalblue;
+  color: white;
+  margin: 20px 20px 0 20px;
+}
+
+.inputField{
+  border-width: 0 0 1px 0;
+  display: block;
+  width: 400px;
+}
+
+.inputsContainer{
+  padding: 20px;
+}

@@ -11,6 +11,12 @@ module.exports = {
     filename: "[name].js"
   }, // NEW Ends
   plugins: [htmlPlugin],
+  resolve: {
+    alias: {
+      components: path.resolve(__dirname, 'src/components'),
+    },
+    extensions: ['.js', '.jsx'],
+  },
   module: {
     rules: [
       {
