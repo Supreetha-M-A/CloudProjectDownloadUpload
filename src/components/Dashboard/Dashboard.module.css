@@ -1,3 +1,79 @@
 .container{
-  background-color: blanchedalmond;
+}
+
+.header{
+  background-color: olivedrab;
+  width: inherit;
+  height: 50px;
+}
+
+.DasboardText{
+  color: white;
+  padding-left: 10px;
+  position: relative;
+  top: 10px;
+}
+
+.logoutText{
+  color: white;
+  float: right;
+  padding: 10px;
+}
+
+.button {
+  width: 170px;
+  padding: 10px;
+  border: none;
+  border-radius: 15px;
+  background-color: cornflowerblue;
+  color: white;
+  margin: 20px 20px 20px 20px;
+}
+
+.welcomeMessage{
+  color: purple;
+  text-align: center;
+}
+
+.files{
+  color: slategrey;
+  font-size: 25px;
+}
+
+.divider{
+  width: inherit;
+  height: 0.1px;
+  background-color: lightslategrey;
+  margin: 20px;
+}
+
+table {
+  color: darkslategray;
+  border-collapse: collapse;
+}
+
+td, th {
+  border-bottom: 1px solid #dddddd;  
+  text-align: left;
+  padding: 8px;
+  width: 200px;
+  height: 30px;
+}
+
+.iconButtons{
+  border:none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.banner{
+  background-color: palegreen;
+  height:30px;
+  color: green;
+  padding: 5px;
+}
+
+.closeBanner{
+  float: right;
+  margin-right: 5px;
 }

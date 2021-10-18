@@ -16,6 +16,7 @@ const Register = () => {
     <input className={styles.inputField} type="password" label="confirmPassword"/>
   </div>
   <button className={styles.button}>Register</button>
+  <span className={styles.linkStatement}>Have an account?</span><a href="#">Login</a>
 </div>;
 }
 

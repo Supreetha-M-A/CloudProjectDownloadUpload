@@ -11,6 +11,7 @@ const Login = () => {
       <input className={styles.inputField} type="password" label="password" />
     </div>
     <button className={styles.button}>Login</button>
+    <span className={styles.linkStatement}>No account?</span><a href="#">Register</a>
     <div />
   </div>;
 }

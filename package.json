@@ -40,6 +40,10 @@
   },
   "homepage": "https://github.com/Supreetha-M-A/CloudProjectDownloadUpload#readme",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
     "babel-plugin-react-css-modules": "^5.2.6",
     "express": "^4.17.1",
     "react": "^17.0.2",
